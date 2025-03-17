@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="center" style="font-size: 14px; font-weight: normal;">
+<div align="center" style="font-size: 10px; font-weight: normal;">
 I am currently a student at Illinois State University pursuing a Bachelors of Science in Information System. I aspire to become a Software Engineer after college. Below is my tech stack that I am most familiar with, as well as the repositories of what I have been working on. Feel free to reach out anytime!
 </div>
 
