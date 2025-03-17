@@ -1,8 +1,7 @@
 
-<h2 align="center">
 <div align="center">
   
-## 👋 Hello there, I'm Justin
+<h2>👋 Hello there, I'm Justin</h2>
 
 </div>
 
